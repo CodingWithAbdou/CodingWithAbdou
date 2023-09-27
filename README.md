@@ -1,6 +1,5 @@
 <div align="center">
     <h1 ><a href="https://codingwithabdou.github.io/gold_profile/">Hi, I'm Khaldi Abdou 👋</a></h1>
-    <hr />
     <a href="https://www.linkedin.com/in/khladi-mohamed-abdelhamid-5b1bba26a/"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
     <a href="https://www.facebook.com/profile.php?id=100084134056462"><img src="https://img.shields.io/badge/Facebook-%234267B2?style=flat&logo=Facebook&logoColor=white"/></a>
     <a href="https://www.instagram.com/khaldi.bibou/"><img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white"/></a>
@@ -14,6 +13,7 @@
 - 💼 any freelance work? do reach, <a href="mailto:coder.abdou@gmail.com">email</a> :)
 - 💬 ask me about anything , <b>i am happy to help</b>
 
+<hr />
 <div align="center">
 <h3 >Lang and tools</h3>
 
