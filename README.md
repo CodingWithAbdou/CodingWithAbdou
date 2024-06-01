@@ -10,7 +10,7 @@
 
 - 📖 Hi, I’m Wep Developer & I love building browser extention 
 - 👀 I'm always interested in developing my self
-- 💼 any freelance work? do reach, <a href="mailto:coder.abdou@gmail.com">email</a> :)
+- 💼 any freelance work? do reach, <a href="mailto:contact@khaldiabdou.com">email</a> :)
 - 💬 ask me about anything , <b>i am happy to help</b>
 
 <hr />
